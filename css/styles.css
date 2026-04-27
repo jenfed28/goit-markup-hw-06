@@ -551,7 +551,7 @@ button {
   padding-bottom: 72px;
 }
 
-.team-section-cotainer {
+.team-section-container {
   padding: 96px 28px;
 }
 
@@ -658,7 +658,7 @@ button {
   color: #2e2f42;
   margin-bottom: 72px;
 }
-.portfolio-cotainer {
+.portfolio-container {
   padding: 96px 16px;
 }
 
@@ -1097,8 +1097,8 @@ button {
   margin-bottom: 16px;
 }
 
-.modal-input-field:focus,
-.modal-input-field:hover,
+.modal-input:focus,
+.modal-input:hover,
 .textarea-field:hover,
 .textarea-field:focus {
   outline: transparent;
@@ -1213,7 +1213,7 @@ button {
   position: fixed;
 }
 
-. @media screen and (min-width: 768px) {
+@media screen and (min-width: 768px) {
   .modal {
     width: 408px;
     padding: 72px 24px 24px;
