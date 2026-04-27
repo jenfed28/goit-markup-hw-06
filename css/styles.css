@@ -551,7 +551,7 @@ button {
   padding-bottom: 72px;
 }
 
-.team-container {
+.team-section-cotainer {
   padding: 96px 28px;
 }
 
@@ -658,7 +658,7 @@ button {
   color: #2e2f42;
   margin-bottom: 72px;
 }
-.portfolio {
+.portfolio-cotainer {
   padding: 96px 16px;
 }
 
@@ -1209,7 +1209,11 @@ button {
   background: #404bbf;
 }
 
-@media screen and (min-width: 768px) {
+.mobile-menu {
+  position: fixed;
+}
+
+. @media screen and (min-width: 768px) {
   .modal {
     width: 408px;
     padding: 72px 24px 24px;
