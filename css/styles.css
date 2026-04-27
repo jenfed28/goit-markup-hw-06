@@ -641,7 +641,7 @@ button {
     gap: 24px;
   }
 
-  .team {
+  .team-section-container {
     padding: 120px 15px;
   }
 }
@@ -737,7 +737,7 @@ button {
 }
 
 @media screen and (min-width: 1158px) {
-  .portfolio {
+  .portfolio-container {
     padding: 120px 15px;
   }
 
@@ -919,7 +919,6 @@ button {
 
   .footer-text {
     text-align: left;
-    width: 264px;
   }
 
   .footer-block-2 {
