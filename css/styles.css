@@ -538,7 +538,6 @@ button {
 
 .team {
   background-color: #f4f4fd;
-  padding: 96px 28px;
 }
 
 .team-title {
@@ -726,10 +725,6 @@ button {
 }
 
 @media screen and (min-width: 768px) {
-  .portfolio {
-    padding: 96px 16px;
-  }
-
   .portfolio-list {
     flex-direction: row;
     flex-wrap: wrap;
@@ -920,7 +915,6 @@ button {
 
   .footer-text-block {
     align-items: flex-start;
-    margin-left: 108px;
   }
 
   .footer-text {
